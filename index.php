@@ -1,5 +1,5 @@
 <?php
 
-echo "Teste F4";
+echo "Bootstrap||Laravel";
 	
 ?>
